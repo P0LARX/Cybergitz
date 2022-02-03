@@ -5,11 +5,11 @@ You'll find the solutions to all the Cybergitz CTFs conducted starting from Seas
 
 
 # Tech stack used:
-Binwalk
-DirBuster
-Hexdump (xxd can also be used)
-Some Cipher decoders
-Sonic Visualiser
-Stegseek
-an image converter
-Visual Studio Code
+Binwalk  
+DirBuster  
+Hexdump (xxd can also be used)  
+Some Cipher decoders  
+Sonic Visualiser  
+Stegseek  
+an image converter  
+Visual Studio Code  
